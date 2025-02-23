@@ -1,0 +1,12 @@
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\bin\Debug\Bankamatik_Similasyonu.exe.config
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\bin\Debug\Bankamatik_Similasyonu.exe
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\bin\Debug\Bankamatik_Similasyonu.pdb
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.csproj.AssemblyReference.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.Form1.resources
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.Properties.Resources.resources
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.csproj.GenerateResource.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.exe
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.pdb
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.Form2.resources
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Bankamatik_Similasyonu\Bankamatik_Similasyonu\obj\Debug\Bankamatik_Similasyonu.btnHesap.resources
