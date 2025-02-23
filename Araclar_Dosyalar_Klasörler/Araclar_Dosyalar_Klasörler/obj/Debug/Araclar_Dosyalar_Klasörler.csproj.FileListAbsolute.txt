@@ -1,0 +1,10 @@
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\bin\Debug\Araclar_Dosyalar_Klasörler.exe.config
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\bin\Debug\Araclar_Dosyalar_Klasörler.exe
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\bin\Debug\Araclar_Dosyalar_Klasörler.pdb
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.csproj.AssemblyReference.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.Form1.resources
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.Properties.Resources.resources
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.csproj.GenerateResource.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.csproj.CoreCompileInputs.cache
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.exe
+C:\Users\DeltaL2\Desktop\GITHUB_YUKLE\Araclar_Dosyalar_Klasörler\Araclar_Dosyalar_Klasörler\obj\Debug\Araclar_Dosyalar_Klasörler.pdb
